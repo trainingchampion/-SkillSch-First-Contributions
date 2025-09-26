@@ -1,8 +1,7 @@
-# Contributing to SkillSch First Contributions
+# 🚀 Learn Open Source Contribution
 
 Welcome to the SkillSch First Contributions project! We're excited that you want to contribute. This guide will help you get started with contributing to this repository.  
 
-# 🚀 Learn Open Source Contribution
 
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 ![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen.svg)
