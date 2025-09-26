@@ -2,10 +2,12 @@
 
 Welcome to the SkillSch First Contributions project! We're excited that you want to contribute. This guide will help you get started with contributing to this repository.  
 
-[Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+# 🚀 Learn Open Source Contribution
+
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 ![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen.svg)
 ![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Table of Contents
 
