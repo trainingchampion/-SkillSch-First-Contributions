@@ -57,9 +57,9 @@ Before you begin, ensure you have:
    - Click the "Fork" button at the top right of the repository page
    - This creates your own copy of the project
 
-2. **Clone your fork**
+2. **Clone the fork**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/-SkillSch-First-Contributions.git
+   git clone https://github.com/trainingchampion/-SkillSch-First-Contributions.git
    cd -SkillSch-First-Contributions
    ```
 
